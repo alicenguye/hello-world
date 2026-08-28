@@ -1,4 +1,4 @@
-# uc-nguye4hn
+# hello-world
 Hi, my name is Alice Nguyen 
 I'm interested in JDM cars and cooking 
 I'm currently studying Cybersecurity and Information of Technology
